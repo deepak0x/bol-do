@@ -1,0 +1,32 @@
+# env / secrets
+.env
+.env.local
+.env.*.local
+*/.env
+*/.env.local
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# persisted call/chat data (PII — phone numbers, transcripts)
+server/sessions/
+
+# node / next
+node_modules/
+.next/
+out/
+.turbo/
+
+# os / editors
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# logs / scratch
+*.log
+/tmp/
