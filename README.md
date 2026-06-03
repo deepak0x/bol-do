@@ -4,6 +4,10 @@
 
 An AI that places real phone calls on your behalf. You type a task ("book a table for 4 at 8 PM", "complain about my delayed order"), Bol Do dials the number via Twilio and talks like a human in Hinglish. Live transcript in the browser; summary when the call ends.
 
+## 🎥 Demo Video
+
+[Watch the demo](https://youtu.be/eQGTAPoLjIM?si=aYwo67eLgVSsvm75)
+
 ## Repo layout
 
 ```
